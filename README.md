@@ -5,6 +5,15 @@ configurations and detection pipelines
 built on ELK, OpenSearch, and Logstash.
 
 ## Contents
+## Lab Environment Screenshots
+
+### Datadog Host Metrics Dashboard
+![Host Metrics](screenshots/
+datadog-host-metrics.png)
+
+Shows CPU, memory, and load average
+monitoring of Windows 11 lab endpoint
+via Datadog agent.
 
 ### Logstash Security Parsers
 Parsing configurations for Windows
