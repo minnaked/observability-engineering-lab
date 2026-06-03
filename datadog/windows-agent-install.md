@@ -52,8 +52,8 @@ Confirmed Windows VM appeared as an active monitored host.
 
 ## Install Logs from Powershell
 PS C:\WINDOWS\system32> [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
-PS C:\WINDOWS\system32> $env:DD_API_KEY = '5cf67c99d55c0a18ab249f9ebe3bfbb6';
-PS C:\WINDOWS\system32> $env:DD_APP_KEY = 'ddapp_8A5t6TJhtG1aCSbikyak7AneYyCw3INw1Q';
+PS C:\WINDOWS\system32> $env:DD_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxfbb6';
+PS C:\WINDOWS\system32> $env:DD_APP_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxw1Q';
 PS C:\WINDOWS\system32> $env:DD_SITE = 'datadoghq.com';
 PS C:\WINDOWS\system32> $env:DD_APM_INSTRUMENTATION_ENABLED = 'iis';
 PS C:\WINDOWS\system32> $env:DD_APM_INSTRUMENTATION_LIBRARIES = 'dotnet:3';
@@ -90,7 +90,7 @@ Successfully ran the default install script in 2m7s!
 
 PS C:\WINDOWS\system32> [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072;
 PS C:\WINDOWS\system32> $env:DD_API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
-PS C:\WINDOWS\system32> $env:DD_APP_KEY = 'ddapp_nDoZGpkPASIBPstiuMnQeoJKCPiw1junjF';
+PS C:\WINDOWS\system32> $env:DD_APP_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxunjF';
 PS C:\WINDOWS\system32> $env:DD_SITE = 'datadoghq.com';
 PS C:\WINDOWS\system32> $env:DD_APM_INSTRUMENTATION_ENABLED = 'iis';
 PS C:\WINDOWS\system32> $env:DD_APM_INSTRUMENTATION_LIBRARIES = 'dotnet:3';
