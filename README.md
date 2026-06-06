@@ -8,8 +8,7 @@ built on ELK, OpenSearch, and Logstash.
 ## Lab Environment Screenshots
 
 ### Datadog Host Metrics Dashboard
-![Host Metrics](screenshots/
-datadog-host-metrics.png)
+![Host Metrics](screenshots/datadog-host-metrics.png)
 
 Shows CPU, memory, and load average
 monitoring of Windows 11 lab endpoint
