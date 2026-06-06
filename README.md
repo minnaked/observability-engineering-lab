@@ -43,9 +43,10 @@ This repository explores:
 ### Monitored Systems
 
 - Windows 11 endpoint
-- Ubuntu Linux virtual machines
-- Wazuh security monitoring platform
-- OpenSearch components
+- kali linux
+- Wazuh vm
+- windows 11 vm
+- masotan wins 11 endpoint
 
 ### Tools
 
